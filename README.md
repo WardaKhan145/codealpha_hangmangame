@@ -3,9 +3,13 @@ A simple, text-based Hangman game implemented in Python using basic console inpu
 Developed as a task for the Code Alpha Python Programming Internship.
 # Features
 Randomized Gameplay: Dynamically selects a secret word from a predefined list of words for each session.
+
 Input Validation: Restricts input to single alphabetical letters, preventing loss of turns from accidental typos, numbers, symbols, or duplicate guesses.
+
 Interactive Dashboard: Displays game state updates after every turn, showing hidden word progress (with underscores), remaining incorrect guess counts, and already guessed letters.
+
 Pure Terminal Application: Lightweight implementation focusing entirely on Python core logic—no complex external graphics, audio, or API setups required.
+
 # Key Concepts Used
 random (for word selection)
 while loops (to drive the game state)
