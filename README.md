@@ -17,5 +17,5 @@ if-else statements (for user validation and tracking matches)
 Strings and built-in text manipulation
 Lists and Sets (for data tracking and efficient lookup)
 # How to Run:
-Open the file in Python IDLE or your preffered code editor.
+Open the file in Python IDLE or your preffered code editor.  
 PressF5or run the script via terminal.
